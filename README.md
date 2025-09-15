@@ -390,4 +390,4 @@ This project is licensed under the [MIT License](https://github.com/satishsangwa
 ## Contact
 For inquiries, please contact Satish Sangwan 
 - Email: 
-- LinkedIN : https://www.linkedin.com/in/satish-sangwan-da/
+- LinkedIN :
