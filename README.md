@@ -388,6 +388,6 @@ Contributions are welcome! Please fork the repository and submit pull requests f
 This project is licensed under the [MIT License]()
 
 ## Contact
-For inquiries, please contact Satish Sangwan 
+For inquiries, please contact Prateek Kumar
 - Email: 
 - LinkedIN :
