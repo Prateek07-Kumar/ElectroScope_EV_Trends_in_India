@@ -385,7 +385,7 @@ Open Resume_Challenge_12_Presentation.pdf to view the detailed analysis and visu
 Contributions are welcome! Please fork the repository and submit pull requests for any improvements or additional analyses.
 
 ## License
-This project is licensed under the [MIT License](https://github.com/Prateek07-Kumar/ElectroScope_EV_Trends_in_India.git)
+This project is licensed under the [MIT License]()
 
 ## Contact
 For inquiries, please contact Satish Sangwan 
