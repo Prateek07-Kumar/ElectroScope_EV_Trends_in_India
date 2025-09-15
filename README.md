@@ -364,8 +364,7 @@ To use the SQL scripts, follow these steps:
 
 1. **Clone the Repository:**
 
-git clone https://github.com/satishsangwan/Electric-Vehicle-Analysis.git
-cd Electric-Vehicle-Analysis
+git clone https://github.com/Prateek07-Kumar/ElectroScope_EV_Trends_in_India.git cd Electric-Vehicle-Analysis
 
 2. **Set Up Your Environment:**
 
