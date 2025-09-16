@@ -1,6 +1,6 @@
 <h1 align="center">Electric-Vehicle-Analysis</h1> 
 
-# Project: Resume Challenge 12 - Provide Insights to an Automotive company on Electric vehicles launch in Indi
+# Project: Resume Challenge 12 - Provide Insights to an Automotive company on Electric vehicles launch in India
 
 ## Project Overview
 
@@ -8,7 +8,7 @@
 **Domain:** Automotive Industry  
 **Function:** Executive Management  
 **Company:** Atliq Motors (imaginary company)  
-**Challenge:** Codebasics's Resume Challenge 12 [Here is the Link](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+**Challenge:** Codebasics' Resume Challenge 12 [Here is the Link](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 AtliQ Motors is an automotive giant from the USA specializing in electric vehicles (EV). In the last 5 years, their market share rose to 25% in the electric and hybrid
 vehicles segment in North America. As a part of their expansion plans, they wanted to launch their bestselling models in India, where their market share is less than 2%.
