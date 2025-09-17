@@ -243,7 +243,7 @@ To analyze the correlation between the availability of charging stations and the
   
 - **Karnataka:** High EV sales and penetration rate, but relatively fewer charging stations. Despite fewer stations, Karnataka has managed a high penetration rate, suggesting other factors might be supporting EV adoption.
   
-- **Tamil Nadu:** Moderate EV sales and penetration rate with fewer charging stations. The ratio is higher than Gujarat, indicating better infrastructure relative to the number of EVs but lower overall numbers compared to Maharashtra and Karnataka.
+- **Tamil Nadu:** Moderate EV sales and penetration rate with fewer charging stations. The ratio is higher than in Gujarat, indicating better infrastructure relative to the number of EVs but lower overall numbers compared to Maharashtra and Karnataka.
   
 - **Gujarat:** Moderate EV sales and penetration rate with the lowest number of charging stations per EV. This could indicate that the charging infrastructure might be a limiting factor for higher EV adoption.
   
