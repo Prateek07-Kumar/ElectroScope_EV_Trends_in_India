@@ -368,7 +368,7 @@ git clone https://github.com/Prateek07-Kumar/ElectroScope_EV_Trends_in_India.git
 
 2. **Set Up Your Environment:**
 
-Install MySQL Workbench if not already installed.
+Install MySQL Workbench if it is not already installed.
 Open MySQL Workbench and connect to your database.
 
 3. **Run the SQL Scripts:**
