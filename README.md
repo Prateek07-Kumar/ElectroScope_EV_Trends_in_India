@@ -171,7 +171,7 @@ Here are the primary reasons customers are choosing 4-wheeler EVs in 2023 and 20
    - **Policy Support:** Many countries are implementing policies to phase out ICE vehicles and promote EVs. The European Union's Fit for 55 plan aims for a 100%  reduction in CO2 emissions from new cars by 2035, which encourages consumers to switch to EVs.
 
 4. **Technological Advancements:**
-   - **Improved Battery Technology:** Advancements in battery technology have increased the range and efficiency of EVs. According to BloombergNEF, the average range of EVs has increased by over 50% in the past five years, addressing range anxiety concerns .
+   - **Improved Battery Technology:** Advancements in battery technology have increased the range and efficiency of EVs. According to BloombergNEF, the average range of EVs has increased by over 50% in the past five years, addressing range anxiety concerns.
    - **Charging Infrastructure:** The expansion of charging infrastructure has made EV ownership more convenient. A report by the International Council on Clean Transportation (ICCT) noted a 40% increase in public charging points globally in 2023 alone.
 
   These factors collectively contribute to the growing appeal of 4-wheeler EVs among consumers in 2023 and 2024.
