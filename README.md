@@ -211,7 +211,7 @@ Government incentives and subsidies play a crucial role in the adoption rates of
 
 Government incentives and subsidies have a profound impact on the adoption rates of electric 2-wheelers and 4-wheelers. By reducing the upfront cost, improving the TCO, supporting infrastructure development, and providing non-financial benefits, these measures make EVs more accessible and attractive to consumers. Additionally, policies promoting environmental sustainability and reducing urban pollution further encourage the shift from ICE vehicles to EVs. Overall, comprehensive and well-implemented government incentives are key to accelerating the transition to electric mobility.
 
-### 3. How does the availability of charging stations infrastructure correlate with the EV sales and penetration rates in the top 5 states?
+### 3. How does the availability of charging station infrastructure correlate with the EV sales and penetration rates in the top 5 states?
 To analyze the correlation between the availability of charging stations and the EV sales and penetration rates in the top 5 states, we can look at how the number of charging stations might influence or relate to the number of EV sales and the penetration rates. Here’s a step-by-step analysis:
 
 ### Data Overview:
