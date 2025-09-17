@@ -267,7 +267,7 @@ To analyze the correlation between the availability of charging stations and the
 Here are three potential brand ambassadors for AtliQ Motors' EV/Hybrid vehicles launch in India, supported by data:
 1. **Virat Kohli:**
    - **Wide Reach and Influence:** As one of the most popular and influential sports personalities in India, Virat Kohli has a massive following across social media platforms. He has over 250 million followers on Instagram, making him a powerful figure to reach a broad and diverse audience .
-   - **Environmental Advocacy:** Virat Kohli has been vocal about environmental issues and sustainable living. His endorsement can align well with the eco-friendly message of EVs and hybrids, resonating with environmentally conscious consumers .
+   - **Environmental Advocacy:** Virat Kohli has been vocal about environmental issues and sustainable living. His endorsement can align well with the eco-friendly message of EVs and hybrids, resonating with environmentally conscious consumers.
    - **Youth Appeal:** As a cricket icon, Kohli appeals to the younger generation, who are increasingly becoming key consumers of innovative and sustainable technologies. His association can help attract younger customers who are more likely to adopt new technologies like EVs and hybrids .
 
 [link of image of Kohli brand value:](https://www.financialexpress.com/business/brandwagon-virat-kohli-leads-in-brand-value-and-shah-rukh-khan-makes-a-comeback-reveals-krolls-report-3527784/)
