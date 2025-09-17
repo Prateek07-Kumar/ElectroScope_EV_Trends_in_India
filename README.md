@@ -176,7 +176,7 @@ Here are the primary reasons customers are choosing 4-wheeler EVs in 2023 and 20
 
   These factors collectively contribute to the growing appeal of 4-wheeler EVs among consumers in 2023 and 2024.
 
-### 2. How do government incentives and subsidies impact the adoption rates of 2-wheelers and 4-wheelers? Which states in India provided most subsidies?
+### 2. How do government incentives and subsidies impact the adoption rates of 2-wheelers and 4-wheelers? Which states in India provided the most subsidies?
 Government incentives and subsidies play a crucial role in the adoption rates of electric vehicles (EVs), including both 2-wheelers and 4-wheelers. These incentives and subsidies can come in various forms, such as direct financial incentives, tax breaks, rebates, and non-financial incentives like access to bus lanes or free parking. Here’s a detailed analysis of how these measures impact the adoption rates of 2-wheelers and 4-wheelers:
 
 ### Impact on Adoption Rates
