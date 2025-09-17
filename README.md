@@ -29,7 +29,7 @@ Bruce Haryali, the chief of AtliQ Motors India, wanted to do a detailed market s
 10. [Contact](#contact)
 
 ## Data Model
-We are provided with 3 different data tables, namely dim_date, electric_vehicle_sales_by_makers, and electric_vehicle_sales_by_state, and also shown in entity relationship diagram (ERD) below:
+We are provided with 3 different data tables, namely dim_date, electric_vehicle_sales_by_makers, and electric_vehicle_sales_by_state, and also shown in an entity relationship diagram (ERD) below:
 
 **ERD** ![ERD](https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/ERD_RC12.png)
 
