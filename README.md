@@ -68,7 +68,7 @@ We are provided with 3 different data tables, namely dim_date, electric_vehicle_
 </p>
 
 ### Task 5
-**Request:** How do the EV sales and penetration rates in Delhi compare to Karnataka for 2024?
+**Request:** How do the EV sales and penetration rates in Delhi compare to those in Karnataka for 2024?
 
 <p align="center">
   <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_5_EVSales.png" width="400" height="450" /> 
