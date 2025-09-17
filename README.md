@@ -141,7 +141,7 @@ We are provided with 3 different data tables, namely dim_date, electric_vehicle_
 
 ### Task 8: Peak and Low Season Months for EV Sales (2022-2024)
 
-**Insight:** Peak sales months were January, February, March, October, November, and December, suggesting seasonality influenced by factors like year-end incentives and festive seasons. Low sales months indicated a potential slowdown during summer.
+**Insight:** Peak sales months were January, February, March, October, November, and December, suggesting seasonality influenced by factors like year-end incentives and festive seasons. Low sales months indicated a potential slowdown during the summer.
 
 ### Task 9: Projected EV Sales for Top 10 States by Penetration Rate in 2030
 
