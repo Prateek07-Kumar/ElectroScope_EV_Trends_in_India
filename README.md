@@ -274,7 +274,7 @@ Here are three potential brand ambassadors for AtliQ Motors' EV/Hybrid vehicles 
 
 2. **Priyanka Chopra:**
    - **Global Influence:** Priyanka Chopra is an internationally renowned actress and philanthropist with a significant influence both in India and globally. She has over 85 million followers on Instagram, providing extensive reach and visibility.
-   - **Advocate for Sustainability:** Chopra has been involved in various environmental and sustainability initiatives. Her partnership with AtliQ Motors can emphasize the brand's commitment to sustainability and appeal to eco-conscious consumers .
+   - **Advocate for Sustainability:** Chopra has been involved in various environmental and sustainability initiatives. Her partnership with AtliQ Motors can emphasize the brand's commitment to sustainability and appeal to eco-conscious consumers.
    - **Appeal to Diverse Demographics:** As a versatile actress and public figure, Priyanka Chopra appeals to a wide range of demographics, including both urban and rural audiences, making her an effective ambassador for reaching diverse consumer groups .
 
 3. **Akshay Kumar:**
