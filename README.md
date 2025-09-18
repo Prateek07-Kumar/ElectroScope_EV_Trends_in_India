@@ -263,7 +263,7 @@ To analyze the correlation between the availability of charging stations and the
 - The actual EV sales numbers appear to be influenced by a combination of factors, including but not limited to the availability of charging stations.
 - Enhancing charging infrastructure can potentially boost both EV sales and penetration rates, as seen in Maharashtra and Kerala.
 
-### 4. Who should be the brand ambassador if AtliQ Motors launches their EV/Hybrid vehicles in India, and why?
+### 4. Who should be the brand ambassador if AtliQ Motors launches its EV/Hybrid vehicles in India, and why?
 Here are three potential brand ambassadors for AtliQ Motors' EV/Hybrid vehicles launch in India, supported by data:
 1. **Virat Kohli:**
    - **Wide Reach and Influence:** As one of the most popular and influential sports personalities in India, Virat Kohli has a massive following across social media platforms. He has over 250 million followers on Instagram, making him a powerful figure to reach a broad and diverse audience .
