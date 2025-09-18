@@ -284,7 +284,7 @@ Here are three potential brand ambassadors for AtliQ Motors' EV/Hybrid vehicles 
 
 Choosing any of these ambassadors can significantly enhance the brand's visibility, credibility, and appeal to the target audience in India.
 
-### 5. Which state of India is ideal to start the manufacturing unit? (Based on subsidies provided, ease of doing business, stability in governance etc.)
+### 5. Which state of India is ideal to start the manufacturing unit? (Based on subsidies provided, ease of doing business, stability in governance, etc.)
 ### Tamil Nadu:
 - **Incentives:**
   - 15% capital subsidy on eligible investments over 10 years
