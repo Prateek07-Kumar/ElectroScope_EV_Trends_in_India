@@ -280,7 +280,7 @@ Here are three potential brand ambassadors for AtliQ Motors' EV/Hybrid vehicles 
 3. **Akshay Kumar:**
    - **Mass Appeal:** Akshay Kumar is one of the most popular and trusted actors in India, with a strong fan base across different age groups and regions. His endorsements are known to resonate well with the masses.
    - **Fitness and Health Advocate:** Known for his focus on fitness and healthy living, Akshay Kumar's image aligns well with the clean and healthy benefits of EVs, appealing to consumers looking for sustainable and health-conscious choices.
-   - **Proven Track Record:** Kumar has successfully endorsed various products, including automobiles, and his association has often resulted in increased brand awareness and sales. His credibility and relatability make him a reliable choice for AtliQ Motors .
+   - **Proven Track Record:** Kumar has successfully endorsed various products, including automobiles, and his association has often resulted in increased brand awareness and sales. His credibility and relatability make him a reliable choice for AtliQ Motors.
 
 Choosing any of these ambassadors can significantly enhance the brand's visibility, credibility, and appeal to the target audience in India.
 
