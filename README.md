@@ -355,7 +355,7 @@ These recommendations, backed by market insights and consumer behavior data, can
 
 ## Power BI Dashboard
 
-Additionally, an interactive Power BI dashboard was created to analyze makers and states data, providing a comprehensive view of the EV Market in India.
+Additionally, an interactive Power BI dashboard was created to analyze makers and state data, providing a comprehensive view of the EV Market in India.
 
 [PowerBi Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiY2MyMTFiNGQtNjZlNy00YThmLWIxZmEtMzRiYmFhMzhjODM5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
