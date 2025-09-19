@@ -388,6 +388,6 @@ This project is licensed under the [MIT License]()
 
 ## Contact
 For inquiries, please contact Prateek Kumar
-- Email: prateekchaurasia791@gmail.com
+- Email: prateekchaurasia791@gmail.co
 - LinkedIn:
   
