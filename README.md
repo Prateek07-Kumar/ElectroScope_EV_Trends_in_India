@@ -378,7 +378,7 @@ Execute the queries in your MySQL Workbench environment to generate the reports.
 
 4. **Review the Presentation:**
 
-Open Resume_Challenge_12_Presentation.pdf to view the detailed analysis and visualizations.
+Open Resume_Challenge_12_Presentation.pdf to view the detailed analysis and visualizations
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit pull requests for any improvements or additional analyses.
