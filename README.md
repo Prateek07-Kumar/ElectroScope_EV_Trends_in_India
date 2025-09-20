@@ -2,7 +2,7 @@
 
 # Project: Resume Challenge 12 - Provide Insights to an Automotive company on Electric vehicles launch in India
 
-## Project Overvie
+## Project Overview
 
 **Domain:** Automotive Industry  
 **Function:** Executive Management  
