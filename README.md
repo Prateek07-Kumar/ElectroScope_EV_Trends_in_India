@@ -6,7 +6,7 @@
 
 **Domain:** Automotive Industry
 **Function:** Executive Management
-**Company:** Atliq Motors (imaginary company)  
+**Company:** Atliq Motors (imaginary company) 
 **Challenge:** Codebasics' Resume Challenge 12 [Here is the Link](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 AtliQ Motors is an automotive giant from the USA specializing in electric vehicles (EV). In the last 5 years, their market share rose to 25% in the electric and hybrid
