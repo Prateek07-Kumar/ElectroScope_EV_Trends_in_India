@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-**Domain:** Automotive Industr
+**Domain:** Automotive Industry
 **Function:** Executive Management  
 **Company:** Atliq Motors (imaginary company)  
 **Challenge:** Codebasics' Resume Challenge 12 [Here is the Link](https://codebasics.io/challenge/codebasics-resume-project-challenge)
