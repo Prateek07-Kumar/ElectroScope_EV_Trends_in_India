@@ -14,7 +14,7 @@ vehicles segment in North America. As a part of their expansion plans, they want
 Bruce Haryali, the chief of AtliQ Motors India, wanted to do a detailed market study of the existing EV/Hybrid market in India before proceeding further. Bruce gave this task to the data analytics team of AtliQ Motors, and Peter Pandey is the data analyst working in this team.
 
 
-## Table of Content
+## Table of Contents
 
 1. [Data Model](#data-model)
 2. [Project Tasks](#project-tasks-primary-questions)
